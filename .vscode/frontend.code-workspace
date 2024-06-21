@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/arjun sahu/Downloads/movie-booking-app-main/movie-booking-app-main/frontend"
+		},
+		{
+			"path": "../../../demoapp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontend"
+	}
+}
